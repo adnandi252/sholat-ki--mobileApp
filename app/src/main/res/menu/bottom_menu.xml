@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="@string/home"
+        android:icon="@drawable/baseline_home_24"/>
+    <item
+        android:id="@+id/jadwalFragment"
+        android:title="@string/jadwal_sholat"
+        android:icon="@drawable/baseline_access_time_filled_24"/>
+    <item
+        android:id="@+id/locationFragment"
+        android:title="@string/location"
+        android:icon="@drawable/baseline_edit_location_alt_24"/>
+</menu>
