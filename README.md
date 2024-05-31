@@ -1,6 +1,8 @@
 # **Sholat Ki'**
   Merupakan aplikasi yang dirancang untuk menampilkan jadwal sholat untuk tiap-tiap Kabupaten di Indonesia.
-Menggunakan data dari API yang disediakan oleh https://api.myquran.com/v2/.
+Menggunakan data dari API yang disediakan oleh https://api.myquran.com/v2/. Dokumentasi lengkap mengenai API yang digunakan
+dapat diakses melalu laman berikut:
+https://documenter.getpostman.com/view/841292/2s9YsGittd#f8ebe8df-d842-41a2-8302-f3dd139990ba
 
 ## **Fitur Utama**
 1. Menampilkan jadwal sholat harian menurut pilihan lokasi.
